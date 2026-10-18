@@ -1,0 +1,8 @@
+kind,id,title,creator,totalCopies,extra1,extra2
+BOOK,1,Clean Code,Robert C. Martin,3,9780132350884,Shelf A1
+BOOK,2,Effective Java,Joshua Bloch,2,9780134685991,Shelf A2
+BOOK,3,Head First Java,Kathy Sierra,2,9780596009205,Shelf B1
+BOOK,4,Introduction to Algorithms,Thomas H. Cormen,1,9780262033848,Shelf C3
+DIGITAL,6,Java Programming Masterclass,Tim Buchalka,3,VIDEO,850
+DIGITAL,7,maths book,aparnaa,1,EBOOK,23
+BOOK,8,code nova,founder,1,8888888888,self
